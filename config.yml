@@ -1,0 +1,12 @@
+first:
+  name: admin
+  password: admin
+  rights: '111'
+second:
+  name: Robert
+  password: 1234
+  rights: '010'
+third:
+  name: Default_User
+  password: 1234
+  rights: '110'
